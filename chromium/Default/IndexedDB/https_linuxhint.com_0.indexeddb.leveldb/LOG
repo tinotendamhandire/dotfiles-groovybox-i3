@@ -1,0 +1,6 @@
+2023/04/11-23:40:17.048 22d2 Creating DB /home/bus/.config/chromium/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb since it was missing.
+2023/04/11-23:40:17.064 22d2 Reusing MANIFEST /home/bus/.config/chromium/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/11-23:40:21.493 22d3 Level-0 table #5: started
+2023/04/11-23:40:21.499 22d3 Level-0 table #5: 4936 bytes OK
+2023/04/11-23:40:21.509 22d3 Delete type=0 #3
+2023/04/11-23:40:21.510 22d3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

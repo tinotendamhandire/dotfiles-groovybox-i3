@@ -1,0 +1,19 @@
+{
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApV23r31xFv20rhLmFh5zxi5lBKv4di45PBSLbBr/21LGDPO5HE8e1ur38hIh1tXSzHb8IvWdpudLAjWoEussRY+HELhGF4t59PnuVEV5uTeUBIi9iffkXWEHnZ78kEP2AeaFHWn6MAxs0IiTxc9VTO+zPzNHc6bRNSkCrM0qXJO/A2Zygt9YEIEWSve3DDC7LUMjywGp98bE1eHV78Ia97lDAkP1pvjvqkbm4MrqTkGUR4g5C2xjtbev0UEdLbyP6bgy9hfK1mBrho7mq1XWBR9g7AMicUOsfcIahUc9+AKjdK42+b1NnnSb9foPgYTryJwFVPLIKpzOS4Y5mWvXhwIDAQAB",
+   "manifest_version": 2,
+   "name": "gruvbox theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 251, 241, 201 ],
+         "frame": [ 29, 32, 33 ],
+         "frame_inactive": [ 29, 32, 33 ],
+         "frame_incognito": [ 167, 152, 133 ],
+         "frame_incognito_inactive": [ 212, 195, 163 ],
+         "tab_background_text": [ 145, 131, 117 ],
+         "tab_text": [ 251, 241, 201 ],
+         "toolbar": [ 60, 56, 55 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

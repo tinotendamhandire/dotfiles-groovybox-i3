@@ -1,0 +1,15 @@
+2023/04/29-20:56:15.300 3 Reusing MANIFEST /home/bus/.config/chromium/Default/Session Storage/MANIFEST-000001
+2023/04/29-20:56:15.302 3 Recovering log #129
+2023/04/29-20:56:15.310 3 Reusing old log /home/bus/.config/chromium/Default/Session Storage/000129.log 
+2023/04/29-20:56:19.880 3 Level-0 table #133: started
+2023/04/29-20:56:19.913 3 Level-0 table #133: 18211 bytes OK
+2023/04/29-20:56:19.925 3 Delete type=0 #129
+2023/04/29-20:56:19.925 3 Compacting 4@0 + 1@1 files
+2023/04/29-20:56:19.958 3 Generated table #134@0: 6250 keys, 92779 bytes
+2023/04/29-20:56:19.958 3 Compacted 4@0 + 1@1 files => 92779 bytes
+2023/04/29-20:56:19.967 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/29-20:56:19.968 3 Delete type=2 #124
+2023/04/29-20:56:19.968 3 Delete type=2 #126
+2023/04/29-20:56:19.968 3 Delete type=2 #128
+2023/04/29-20:56:19.969 3 Delete type=2 #130
+2023/04/29-20:56:19.969 3 Delete type=2 #133

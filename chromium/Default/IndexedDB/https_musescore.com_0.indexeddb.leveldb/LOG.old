@@ -1,0 +1,6 @@
+2023/04/25-21:58:06.460 5fdc Creating DB /home/bus/.config/chromium/Default/IndexedDB/https_musescore.com_0.indexeddb.leveldb since it was missing.
+2023/04/25-21:58:06.464 5fdc Reusing MANIFEST /home/bus/.config/chromium/Default/IndexedDB/https_musescore.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/25-22:00:37.410 5fdd Level-0 table #5: started
+2023/04/25-22:00:37.420 5fdd Level-0 table #5: 78201 bytes OK
+2023/04/25-22:00:37.429 5fdd Delete type=0 #3
+2023/04/25-22:00:37.430 5fdd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+2023/04/24-01:12:52.924 5fdc Reusing MANIFEST /home/bus/.config/chromium/Default/IndexedDB/https_allanime.to_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/24-01:12:52.925 5fdc Recovering log #3
+2023/04/24-01:12:52.925 5fdc Reusing old log /home/bus/.config/chromium/Default/IndexedDB/https_allanime.to_0.indexeddb.leveldb/000003.log 
+2023/04/24-01:14:12.223 5fdd Level-0 table #5: started
+2023/04/24-01:14:12.227 5fdd Level-0 table #5: 5015 bytes OK
+2023/04/24-01:14:12.233 5fdd Delete type=0 #3
+2023/04/24-01:14:12.234 5fdd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

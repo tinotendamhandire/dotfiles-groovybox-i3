@@ -1,0 +1,18 @@
+2023/04/28-13:57:04.282 f5951 Reusing MANIFEST /home/bus/.config/chromium/Default/Extension State/MANIFEST-000001
+2023/04/28-13:57:04.282 f5951 Recovering log #16
+2023/04/28-13:57:04.301 f5951 Reusing old log /home/bus/.config/chromium/Default/Extension State/000016.log 
+2023/04/28-19:54:41.058 f5942 Level-0 table #20: started
+2023/04/28-19:54:41.089 f5942 Level-0 table #20: 2227971 bytes OK
+2023/04/28-19:54:41.101 f5942 Delete type=0 #16
+2023/04/28-19:54:41.102 f5942 Compacting 4@0 + 1@1 files
+2023/04/28-19:54:41.132 f5942 Generated table #21@0: 2 keys, 8571 bytes
+2023/04/28-19:54:41.132 f5942 Compacted 4@0 + 1@1 files => 8571 bytes
+2023/04/28-19:54:41.142 f5942 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/04/28-19:54:41.144 f5942 Delete type=2 #8
+2023/04/28-19:54:41.144 f5942 Delete type=2 #11
+2023/04/28-19:54:41.144 f5942 Delete type=2 #14
+2023/04/28-19:54:41.144 f5942 Delete type=2 #17
+2023/04/28-19:54:41.144 f5942 Delete type=2 #20
+2023/04/29-13:48:51.031 f5942 Level-0 table #23: started
+2023/04/29-13:48:51.082 f5942 Level-0 table #23: 1972712 bytes OK
+2023/04/29-13:48:51.102 f5942 Delete type=0 #19

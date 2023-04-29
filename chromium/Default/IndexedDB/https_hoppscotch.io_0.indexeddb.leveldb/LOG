@@ -1,0 +1,7 @@
+2023/04/11-20:41:06.969 22d3 Reusing MANIFEST /home/bus/.config/chromium/Default/IndexedDB/https_hoppscotch.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/11-20:41:06.969 22d3 Recovering log #3
+2023/04/11-20:41:06.969 22d3 Reusing old log /home/bus/.config/chromium/Default/IndexedDB/https_hoppscotch.io_0.indexeddb.leveldb/000003.log 
+2023/04/11-20:41:07.135 896c Level-0 table #5: started
+2023/04/11-20:41:07.141 896c Level-0 table #5: 4388 bytes OK
+2023/04/11-20:41:07.159 896c Delete type=0 #3
+2023/04/11-20:41:07.159 22d2 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

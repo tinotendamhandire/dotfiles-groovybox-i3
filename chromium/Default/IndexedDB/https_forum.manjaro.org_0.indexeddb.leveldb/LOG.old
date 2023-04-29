@@ -1,0 +1,6 @@
+2023/04/10-19:03:00.265 1f4cd Creating DB /home/bus/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb since it was missing.
+2023/04/10-19:03:00.280 1f4cd Reusing MANIFEST /home/bus/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/10-19:04:55.255 1f4ce Level-0 table #5: started
+2023/04/10-19:04:55.263 1f4ce Level-0 table #5: 64046 bytes OK
+2023/04/10-19:04:55.274 1f4ce Delete type=0 #3
+2023/04/10-19:04:55.274 1f4ce Manual compaction at level-0 from (begin) .. (end); will stop at (end)

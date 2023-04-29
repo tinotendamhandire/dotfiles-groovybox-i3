@@ -1,0 +1,12 @@
+2023/04/28-13:57:05.609 f5943 Reusing MANIFEST /home/bus/.config/chromium/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
+2023/04/28-13:57:05.609 f5943 Recovering log #15
+2023/04/28-13:57:05.615 f5943 Reusing old log /home/bus/.config/chromium/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000015.log 
+2023/04/29-05:04:03.514 f5941 Level-0 table #20: started
+2023/04/29-05:04:03.566 f5941 Level-0 table #20: 2410190 bytes OK
+2023/04/29-05:04:03.581 f5941 Delete type=0 #15
+2023/04/29-09:32:02.116 2b27d9 Compacting 1@1 + 1@2 files
+2023/04/29-09:32:02.127 2b27d9 Generated table #21@1: 6 keys, 93864 bytes
+2023/04/29-09:32:02.127 2b27d9 Compacted 1@1 + 1@2 files => 93864 bytes
+2023/04/29-09:32:02.138 2b27d9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/29-09:32:02.139 2b27d9 Delete type=2 #17
+2023/04/29-09:32:02.139 2b27d9 Delete type=2 #20

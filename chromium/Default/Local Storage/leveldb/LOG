@@ -1,0 +1,20 @@
+2023/04/29-20:56:14.952 3 Reusing MANIFEST /home/bus/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/04/29-20:56:14.954 3 Recovering log #1168
+2023/04/29-20:56:14.955 3 Reusing old log /home/bus/.config/chromium/Default/Local Storage/leveldb/001168.log 
+2023/04/29-23:55:21.375 3 Level-0 table #1172: started
+2023/04/29-23:55:21.409 3 Level-0 table #1172: 18322 bytes OK
+2023/04/29-23:55:21.425 3 Delete type=0 #1168
+2023/04/30-00:06:13.621 3 Level-0 table #1174: started
+2023/04/30-00:06:13.626 3 Level-0 table #1174: 19002 bytes OK
+2023/04/30-00:06:13.634 3 Delete type=0 #1171
+2023/04/30-00:06:13.635 3 Compacting 4@0 + 2@1 files
+2023/04/30-00:06:13.689 3 Generated table #1175@0: 733 keys, 2262721 bytes
+2023/04/30-00:06:13.740 3 Generated table #1176@0: 2623 keys, 1085074 bytes
+2023/04/30-00:06:13.740 3 Compacted 4@0 + 2@1 files => 3347795 bytes
+2023/04/30-00:06:13.746 3 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/04/30-00:06:13.750 3 Delete type=2 #1164
+2023/04/30-00:06:13.750 3 Delete type=2 #1165
+2023/04/30-00:06:13.750 3 Delete type=2 #1167
+2023/04/30-00:06:13.750 3 Delete type=2 #1169
+2023/04/30-00:06:13.750 3 Delete type=2 #1172
+2023/04/30-00:06:13.750 3 Delete type=2 #1174

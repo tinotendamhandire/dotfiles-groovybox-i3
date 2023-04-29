@@ -1,0 +1,57 @@
+2023/04/28-21:38:19.444 f5941 Reusing MANIFEST /home/bus/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/28-21:38:19.444 f5941 Recovering log #76
+2023/04/28-21:38:19.467 f5941 Reusing old log /home/bus/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000076.log 
+2023/04/29-09:44:11.426 f5942 Level-0 table #81: started
+2023/04/29-09:44:11.450 f5942 Level-0 table #81: 1072050 bytes OK
+2023/04/29-09:44:11.462 f5942 Delete type=0 #76
+2023/04/29-09:44:23.408 f5942 Compacting 1@1 + 1@2 files
+2023/04/29-09:44:23.425 f5942 Generated table #82@1: 369 keys, 56719 bytes
+2023/04/29-09:44:23.425 f5942 Compacted 1@1 + 1@2 files => 56719 bytes
+2023/04/29-09:44:23.430 f5942 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/29-09:44:23.430 f5942 Delete type=2 #78
+2023/04/29-09:44:23.430 f5942 Delete type=2 #81
+2023/04/29-09:58:19.477 f5942 Level-0 table #84: started
+2023/04/29-09:58:19.496 f5942 Level-0 table #84: 839939 bytes OK
+2023/04/29-09:58:19.508 f5942 Delete type=0 #80
+2023/04/29-10:01:31.164 f5941 Compacting 1@1 + 1@2 files
+2023/04/29-10:01:31.206 f5941 Generated table #85@1: 393 keys, 39808 bytes
+2023/04/29-10:01:31.206 f5941 Compacted 1@1 + 1@2 files => 39808 bytes
+2023/04/29-10:01:31.224 f5941 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/29-10:01:31.225 f5941 Delete type=2 #82
+2023/04/29-10:01:31.225 f5941 Delete type=2 #84
+2023/04/29-10:13:44.776 f5942 Level-0 table #87: started
+2023/04/29-10:13:44.812 f5942 Level-0 table #87: 833311 bytes OK
+2023/04/29-10:13:44.830 f5942 Delete type=0 #83
+2023/04/29-10:14:25.128 f5942 Compacting 1@1 + 1@2 files
+2023/04/29-10:14:25.182 f5942 Generated table #88@1: 440 keys, 50609 bytes
+2023/04/29-10:14:25.182 f5942 Compacted 1@1 + 1@2 files => 50609 bytes
+2023/04/29-10:14:25.201 f5942 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/29-10:14:25.202 f5942 Delete type=2 #85
+2023/04/29-10:14:25.202 f5942 Delete type=2 #87
+2023/04/29-14:26:37.775 f5942 Level-0 table #90: started
+2023/04/29-14:26:37.808 f5942 Level-0 table #90: 1226732 bytes OK
+2023/04/29-14:26:37.811 f5942 Delete type=0 #86
+2023/04/29-14:26:38.045 f5942 Compacting 1@1 + 1@2 files
+2023/04/29-14:26:38.066 f5942 Generated table #91@1: 622 keys, 80283 bytes
+2023/04/29-14:26:38.066 f5942 Compacted 1@1 + 1@2 files => 80283 bytes
+2023/04/29-14:26:38.068 f5942 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/29-14:26:38.069 f5942 Delete type=2 #88
+2023/04/29-14:26:38.069 f5942 Delete type=2 #90
+2023/04/29-15:11:27.845 f5942 Level-0 table #93: started
+2023/04/29-15:11:27.906 f5942 Level-0 table #93: 1080217 bytes OK
+2023/04/29-15:11:27.922 f5942 Delete type=0 #89
+2023/04/29-15:12:28.145 34deb7 Compacting 1@1 + 1@2 files
+2023/04/29-15:12:28.156 34deb7 Generated table #94@1: 413 keys, 47160 bytes
+2023/04/29-15:12:28.156 34deb7 Compacted 1@1 + 1@2 files => 47160 bytes
+2023/04/29-15:12:28.165 34deb7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/29-15:12:28.166 34deb7 Delete type=2 #91
+2023/04/29-15:12:28.166 34deb7 Delete type=2 #93
+2023/04/29-17:19:26.462 f5942 Level-0 table #96: started
+2023/04/29-17:19:26.527 f5942 Level-0 table #96: 1222458 bytes OK
+2023/04/29-17:19:26.540 f5942 Delete type=0 #92
+2023/04/29-17:26:32.515 f5942 Compacting 1@1 + 1@2 files
+2023/04/29-17:26:32.527 f5942 Generated table #97@1: 564 keys, 47132 bytes
+2023/04/29-17:26:32.527 f5942 Compacted 1@1 + 1@2 files => 47132 bytes
+2023/04/29-17:26:32.537 f5942 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/29-17:26:32.537 f5942 Delete type=2 #94
+2023/04/29-17:26:32.537 f5942 Delete type=2 #96

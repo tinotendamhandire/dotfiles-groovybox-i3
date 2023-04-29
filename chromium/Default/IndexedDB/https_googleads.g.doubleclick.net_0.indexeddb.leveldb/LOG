@@ -1,0 +1,7 @@
+2023/04/09-23:35:59.200 e7f Reusing MANIFEST /home/bus/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/09-23:35:59.201 e7f Recovering log #3
+2023/04/09-23:35:59.201 e7f Reusing old log /home/bus/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000003.log 
+2023/04/09-23:36:03.109 e81 Level-0 table #5: started
+2023/04/09-23:36:03.111 e81 Level-0 table #5: 405 bytes OK
+2023/04/09-23:36:03.117 e81 Delete type=0 #3
+2023/04/09-23:36:03.118 e81 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2023/04/24-00:16:36.217 c12 Reusing MANIFEST /home/bus/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/24-00:16:36.217 c12 Recovering log #4
+2023/04/24-00:16:36.218 c12 Reusing old log /home/bus/.config/chromium/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/000004.log 
+2023/04/24-00:17:40.111 c13 Level-0 table #8: started
+2023/04/24-00:17:40.120 c13 Level-0 table #8: 91068 bytes OK
+2023/04/24-00:17:40.126 c13 Delete type=0 #4
+2023/04/24-00:17:40.127 c13 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/24-00:17:40.127 c13 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\x80lu\xeezxB\x00\x01n\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00u\x00p\x00l\x00o\x00a\x00d\x00s\x00/\x00d\x00e\x00f\x00a\x00u\x00l\x00t\x00/\x00o\x00r\x00i\x00g\x00i\x00n\x00a\x00l\x00/\x001\x00X\x00/\x00d\x009\x000\x00e\x007\x004\x006\x00a\x007\x002\x00a\x00b\x001\x00f\x00d\x000\x00d\x003\x00e\x009\x006\x003\x008\x004\x007\x007\x00e\x004\x005\x006\x00a\x00b\x004\x00b\x004\x007\x006\x007\x00c\x00d\x00.\x00p\x00n\x00g' @ 2678 : 1
+2023/04/24-00:17:40.127 c13 Compacting 1@1 + 1@2 files
+2023/04/24-00:17:40.136 c13 Generated table #9@1: 190 keys, 25223 bytes
+2023/04/24-00:17:40.136 c13 Compacted 1@1 + 1@2 files => 25223 bytes
+2023/04/24-00:17:40.142 c13 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/24-00:17:40.143 c13 Delete type=2 #5
+2023/04/24-00:17:40.143 c13 Delete type=2 #8
+2023/04/24-00:17:40.143 c13 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\x80lu\xeezxB\x00\x01n\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00u\x00p\x00l\x00o\x00a\x00d\x00s\x00/\x00d\x00e\x00f\x00a\x00u\x00l\x00t\x00/\x00o\x00r\x00i\x00g\x00i\x00n\x00a\x00l\x00/\x001\x00X\x00/\x00d\x009\x000\x00e\x007\x004\x006\x00a\x007\x002\x00a\x00b\x001\x00f\x00d\x000\x00d\x003\x00e\x009\x006\x003\x008\x004\x007\x007\x00e\x004\x005\x006\x00a\x00b\x004\x00b\x004\x007\x006\x007\x00c\x00d\x00.\x00p\x00n\x00g' @ 2678 : 1 .. (end); will stop at (end)

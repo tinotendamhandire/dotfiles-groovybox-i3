@@ -1,0 +1,7 @@
+2023/04/28-22:56:24.762 f5941 Reusing MANIFEST /home/bus/.config/chromium/Default/IndexedDB/https_pixlr.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/28-22:56:24.762 f5941 Recovering log #3
+2023/04/28-22:56:24.769 f5941 Reusing old log /home/bus/.config/chromium/Default/IndexedDB/https_pixlr.com_0.indexeddb.leveldb/000003.log 
+2023/04/28-23:00:17.952 f5942 Level-0 table #5: started
+2023/04/28-23:00:17.959 f5942 Level-0 table #5: 46367 bytes OK
+2023/04/28-23:00:17.968 f5942 Delete type=0 #3
+2023/04/28-23:00:17.969 f5942 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
